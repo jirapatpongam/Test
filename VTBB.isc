@@ -1,0 +1,55 @@
+[INFO]
+N013.53.36.800
+E100.35.46.300
+60
+58
+-1
+VTBB
+
+[AIRPORT]
+F;VT.ap
+[Runway]
+F;VT.rwy
+[Taxiway]
+F;VTBD.txi
+[GATES]
+F;VTBD.gts
+[VOR]
+F;VT.vor
+F;VL.vor
+F;VY.vor
+F;VD.vor
+F;WM.vor
+[NDB]
+F;VT.ndb
+F;VL.ndb
+F;VY.ndb
+F;VD.ndb
+[FIXES]
+F;VT.fix
+F;VL.fix
+F;VD.fix
+F;VY.fix
+[LOW AIRWAY]
+F;VT.lairway
+[HIGH AIRWAY]
+F;VT.hairway
+F;VV.hairway
+F;VL.hairway
+F;VD.hairway
+F;VY.hairway
+[ARTCC]
+F;VTBB_sectors.artcc
+F;otherFIR.artcc
+[ARTCC HIGH]
+F;VT.hartcc
+[ARTCC LOW]
+F;VT.lartcc
+[GEO]
+F;VT.geo
+F;VT_RDP.geo
+F;VTBD.geo
+F;VTBS.geo
+F;VTCC.geo
+F;VTSP.geo
+F;VTCT.geo
